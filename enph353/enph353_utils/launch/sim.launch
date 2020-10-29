@@ -17,5 +17,5 @@
 	</include>
 
 	<node pkg="enph353_gazebo" type="license_server.py" name="license_server" output="screen"/>
-
+	<node pkg="enph353_gazebo" type="license_detector.py" name="license_detector" output="screen"/>
 </launch>
